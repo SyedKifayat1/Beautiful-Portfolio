@@ -1,0 +1,53 @@
+[
+
+  {
+    "name": "Vikreta",
+    "desc": "Built using ReactJS, Strapi and Stripe",
+    "image": "vikreta",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/amnbaluni/vikreta-build"
+    }
+  },
+  {
+    "name": "InstaNote",
+    "desc": "Built using ReactJs",
+    "image": "instanote",
+    "category": "React",
+    "links": {
+      "view": "https://zd2dz9.csb.app/",
+      "code": "https://codesandbox.io/s/instanote-zd2dz9"
+    }
+  },
+  {
+    "name": "DrumKit",
+    "desc": "Built using HTML,CSS & JavaScript",
+    "image": "drumkit",
+    "category": "basicweb",
+    "links": {
+      "view": "https://j7g58p.csb.app/",
+      "code": "https://codesandbox.io/s/drum-kit-j7g58p"
+    }
+  },
+  {
+    "name": "Calculator",
+    "desc": "Built using HTML,CSS & JavaScript",
+    "image": "calculator",
+    "category": "basicweb",
+    "links": {
+      "view": "https://5v4t9l.csb.app/",
+      "code": "https://codesandbox.io/s/calculator-5v4t9l"
+    }
+  },
+  {
+    "name": "Khana",
+    "desc": "Basic website template built using HTML and Bootstrap.",
+    "image": "khana",
+    "category": "basicweb",
+    "links": {
+      "view": "https://km3yr9.csb.app/",
+      "code": "https://codesandbox.io/s/gifted-wilson-km3yr9?file=/index.html"
+    }
+  }
+]
