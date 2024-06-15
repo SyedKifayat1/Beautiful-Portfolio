@@ -7,7 +7,7 @@
     "category": "mern",
     "links": {
       "view": "#",
-      "code": "https://github.com/amnbaluni/vikreta-build"
+      "code": "#"
     }
   },
   {
@@ -16,8 +16,8 @@
     "image": "instanote",
     "category": "React",
     "links": {
-      "view": "https://zd2dz9.csb.app/",
-      "code": "https://codesandbox.io/s/instanote-zd2dz9"
+      "view": "#",
+      "code": "#"
     }
   },
   {
@@ -26,8 +26,8 @@
     "image": "drumkit",
     "category": "basicweb",
     "links": {
-      "view": "https://j7g58p.csb.app/",
-      "code": "https://codesandbox.io/s/drum-kit-j7g58p"
+      "view": "#",
+      "code": "#"
     }
   },
   {
@@ -36,8 +36,8 @@
     "image": "calculator",
     "category": "basicweb",
     "links": {
-      "view": "https://5v4t9l.csb.app/",
-      "code": "https://codesandbox.io/s/calculator-5v4t9l"
+      "view": "#",
+      "code": "#"
     }
   },
   {
@@ -46,8 +46,8 @@
     "image": "khana",
     "category": "basicweb",
     "links": {
-      "view": "https://km3yr9.csb.app/",
-      "code": "https://codesandbox.io/s/gifted-wilson-km3yr9?file=/index.html"
+      "view": "#",
+      "code": "#"
     }
   }
 ]
