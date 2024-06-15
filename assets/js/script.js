@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Aman Baluni";
+            document.title = "Portfolio | Syed Kifayat";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
